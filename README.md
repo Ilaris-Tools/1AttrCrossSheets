@@ -6,6 +6,7 @@ There is no install. Just download and run.
 
 ## Run
 Start the script using the commandline and write `-s skill/talent`. Defaults to `-s Wahrnehmung/Wachsamkeit` since it is often needed (translates to perception/awareness).
+If you want the minimum instead run it with `-m`.
 
 ## Compatibility
 Supports the large Gatsu sheet and the regular one. Bugs are possible. It is not thoroughly tested yet.
